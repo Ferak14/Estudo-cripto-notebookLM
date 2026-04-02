@@ -1,7 +1,10 @@
 # Estudo-cripto-notebookLM
+
 Utilizando o NotebookLM para aprender mais sobre o mercado. 
 Quero aprender a melhorar minhas operações identificando boas oportunidades do mercado.
 Quero aprender também, sobre a legislação brasileira e como me manter em dia com a receita federal.
+
+# Link - https://notebooklm.google.com/notebook/6dccf9a1-cd3a-4614-8a56-9951456910b1
 
 Alguns links interessantes:
 - https://www.bcb.gov.br/detalhenoticia/20918/nota
@@ -91,7 +94,45 @@ Aqui está um passo a passo recomendado com base nos princípios ensinados nas f
 
 Praticar esses passos diariamente é fundamental para lapidar sua visão e se tornar um analista gráfico sólido.
 
-**Este retorno foi melhor, mas eu gostaria de uma coisa mais visual, então solicitei para fazer um vídeo.**
+**Este retorno foi melhor, mas eu gostaria de uma coisa mais visual, então solicitei para fazer um vídeo. Que teve um resultado bem satisfatório.**
+
+
+
+**Este é um miniguia sobre o notebook:**
+
+Com base nas fontes fornecidas, este miniguia foi estruturado para levar você do entendimento básico do ecossistema cripto até as técnicas avançadas de operação e as melhores práticas de segurança e conformidade.
+
+### 1. Fundamentos do Ecossistema
+Antes de operar, é preciso entender que as criptomoedas são **ativos digitais descentralizados** baseados na tecnologia **blockchain**, que funciona como um registro imutável e transparente de transações.
+*   **Contratos Inteligentes:** São códigos autoexecutáveis que garantem que acordos sejam cumpridos sem intermediários. Eles são a base de **DeFi (Finanças Descentralizadas)**, permitindo empréstimos e trocas de ativos de forma automatizada.
+*   **NFTs e Metaverso:** Além de moedas, a blockchain permite a digitalização de bens únicos (**NFTs**) e a criação de mundos virtuais imersivos (**Metaverso**) para negócios e interação.
+
+### 2. Análise de Tendência (Teoria de Dow)
+O mercado se move em **tendências primárias (longo prazo), secundárias (correções) e terciárias (oscilações curtas)**.
+*   **Fases do Ciclo:** Identifique se o ativo está em **Acumulação** (fundo, ideal para compra), **Participação Pública** (alta acelerada) ou **Distribuição** (topo, onde grandes investidores começam a vender).
+*   **Linhas de Tendência:** Use a **LTA** (ligando fundos ascendentes) para confirmar altas e a **LTB** (ligando topos descendentes) para identificar quedas. O rompimento de uma LTB é um forte sinal de compra.
+
+### 3. Indicadores de Médias Móveis Avançadas
+As fontes destacam médias que buscam eliminar o atraso (lag) das médias tradicionais:
+*   **Hull Moving Average (HMA):** Extremamente rápida, usa a raiz quadrada do período para reagir quase instantaneamente a mudanças de preço, sendo ideal para identificar pontos de entrada em tendências fortes.
+*   **Arnaud Legoux Moving Average (ALMA):** Utiliza um filtro gaussiano para oferecer uma curva mais suave e estável, reduzindo o ruído e evitando "falsos sinais" (whipsaws) em mercados voláteis.
+*   **Triple EMA (TEMA):** Aplica a suavização exponencial três vezes, oferecendo uma fidelidade cirúrgica ao preço, ideal para *day traders* e *scalpers*.
+
+### 4. Estratégias Operacionais
+*   **Suporte e Resistência:** São barreiras psicológicas. Compre no suporte (onde há muitos compradores) e venda na resistência (concentração de ordens de venda).
+*   **Ondas de Elliott e Fibonacci:** O mercado segue um **fractal 5-3** (cinco ondas impulsivas e três corretivas). Use a **Retração de Fibonacci** para prever até onde uma correção (ondas 2 ou 4) pode ir antes da retomada da tendência.
+*   **Volume:** Sempre confirme rompimentos com o volume. Um aumento de preço sem volume indica fraqueza institucional.
+
+### 5. Segurança e Boas Práticas
+No mercado cripto, não há direito ao erro; transações enviadas para redes erradas são irrecuperáveis.
+*   **Custódia:** Para longo prazo, utilize **Hardware Wallets** (como Trezor ou SafePal), que mantêm suas chaves privadas offline. Deixe em corretoras apenas o capital destinado a operações diárias (*trade*).
+*   **Proteção Digital:** Use sempre **Sistemas Operacionais e Softwares originais**, antivírus atualizados e ative obrigatoriamente a **Autenticação de Dois Fatores (2FA)** via aplicativos como Google Authenticator ou Authy.
+
+### 6. Conformidade e Regulação no Brasil
+A Lei 14.478/2022 trouxe o marco legal das criptos no Brasil, criminalizando pirâmides e exigindo que corretoras tenham licença do Banco Central.
+*   **Imposto de Renda:** A partir de 2026, novas regras de reporte (**DeCripto**) entram em vigor.
+*   **Obrigatoriedade:** Operações em exchanges no exterior ou plataformas descentralizadas que ultrapassem **R$ 35.000,00 mensais** devem ser reportadas mensalmente à Receita Federal.
+*   **Regularização:** Existe o regime Rearp para regularizar bens lícitos não declarados com alíquota de 15% de imposto sobre o ganho de capital.
 
 
 
