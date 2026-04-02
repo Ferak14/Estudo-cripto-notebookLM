@@ -96,7 +96,7 @@ Praticar esses passos diariamente é fundamental para lapidar sua visão e se to
 
 
 
-## **Este é um miniguia sobre o notebook:**
+# **Este é um miniguia sobre o notebook:**
 
 Com base nas fontes fornecidas, este miniguia foi estruturado para levar você do entendimento básico do ecossistema cripto até as técnicas avançadas de operação e as melhores práticas de segurança e conformidade.
 
