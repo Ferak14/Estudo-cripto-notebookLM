@@ -25,6 +25,8 @@ Além desses indicadores, o domínio dos **Kendo Sticks (candles)** e seus padr�
 
 **- Este retorno foi bem satisfatório, visto que são os indicadores de maior utilização para análise de ativos.**
 
+
+
 2. Poderia me indicar a melhor hora de fazer a entrada em uma operação?
 
 Identificar o melhor momento para entrar em uma operação depende do uso da **análise técnica**, que permite estudar o comportamento do mercado e identificar tendências de curto, médio e longo prazo. As fontes indicam que as melhores janelas de oportunidade geralmente ocorrem em cenários específicos de preço:
@@ -51,6 +53,8 @@ De acordo com a Teoria de Dow, o mercado se move em ondas. Após uma tendência 
 *   **Estudo Contínuo:** O domínio dessas técnicas exige prática e estudo constante de padrões gráficos e indicadores.
 
 **Meu objetivo seria fazer uma espécie de passo a passo, mas faltou eu especificar melhor isso.**
+
+
   
 3. Poderia fazer um passo a passo de como seria melhor analisar um gráfico?
 
