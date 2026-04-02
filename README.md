@@ -4,7 +4,7 @@ Utilizando o NotebookLM para aprender mais sobre o mercado.
 Quero aprender a melhorar minhas operações identificando boas oportunidades do mercado.
 Quero aprender também, sobre a legislação brasileira e como me manter em dia com a receita federal.
 
-# Link - https://notebooklm.google.com/notebook/6dccf9a1-cd3a-4614-8a56-9951456910b1
+## Link - https://notebooklm.google.com/notebook/6dccf9a1-cd3a-4614-8a56-9951456910b1
 
 Alguns links interessantes:
 - https://www.bcb.gov.br/detalhenoticia/20918/nota
@@ -14,7 +14,7 @@ Alguns links interessantes:
 
 Realizando um estudo sobre os conteúdos adicionados no notebook, as questões que trouxeram as melhores respostas e insights foram:
 
-1. Liste 5 indicadores indispensáveis para a operação no mercado cripto.
+## 1. Liste 5 indicadores indispensáveis para a operação no mercado cripto.
 
  Com base nas técnicas de **análise técnica** apresentadas nas fontes, aqui estão cinco indicadores e conceitos fundamentais para operar no mercado de criptomoedas:
 
@@ -28,9 +28,7 @@ Além desses indicadores, o domínio dos **Kendo Sticks (candles)** e seus padr�
 
 **- Este retorno foi bem satisfatório, visto que são os indicadores de maior utilização para análise de ativos.**
 
-
-
-2. Poderia me indicar a melhor hora de fazer a entrada em uma operação?
+## 2. Poderia me indicar a melhor hora de fazer a entrada em uma operação?
 
 Identificar o melhor momento para entrar em uma operação depende do uso da **análise técnica**, que permite estudar o comportamento do mercado e identificar tendências de curto, médio e longo prazo. As fontes indicam que as melhores janelas de oportunidade geralmente ocorrem em cenários específicos de preço:
 
@@ -59,7 +57,7 @@ De acordo com a Teoria de Dow, o mercado se move em ondas. Após uma tendência 
 
 
   
-3. Poderia fazer um passo a passo de como seria melhor analisar um gráfico?
+## 3. Poderia fazer um passo a passo de como seria melhor analisar um gráfico?
 
 Para analisar um gráfico de forma eficiente e fundamentada, você deve seguir um processo estruturado que utiliza as ferramentas da **análise técnica** para identificar tendências e preparar planos de ação para diferentes cenários.
 
@@ -98,7 +96,7 @@ Praticar esses passos diariamente é fundamental para lapidar sua visão e se to
 
 
 
-**Este é um miniguia sobre o notebook:**
+## **Este é um miniguia sobre o notebook:**
 
 Com base nas fontes fornecidas, este miniguia foi estruturado para levar você do entendimento básico do ecossistema cripto até as técnicas avançadas de operação e as melhores práticas de segurança e conformidade.
 
